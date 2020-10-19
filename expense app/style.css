@@ -1,0 +1,52 @@
+.masterDiv {
+    height: 100vh;
+    overflow: scroll;
+}
+
+.displayExpCl {
+    margin-top: 20px;
+}
+
+.masterInput {
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 180px;
+    
+}
+
+.button {
+margin-top: 10px;
+text-align: center;}
+
+.containerCl {
+    margin-top: 15px;
+    height: 75px;
+    border-radius: 10px;
+}
+
+.inline {
+    display: inline;
+}
+
+.inputTextCl {
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.inputNumberCl {
+    height: 50px;
+    border-radius: 10px;
+}
+
+.expPosition { margin-left: 30px;}
+
+.amtPosition { margin-left: 900px;}
+
+.dltPosition { float: right;
+margin-right: 25px;}
+
